@@ -34,10 +34,10 @@
 >  * 체력바는 시간당 일정하게 감소하며, 플레이어가 연료를 소모하면서 움직이게 되면 체력바는 더 빨리 닳게 됩니다.
 >  * 화면 오른쪽 상단에 설정 버튼이 있습니다.
 
-<img src="img/main_page.png" width = 130px height = 100%></img>
-<img src="img/game_page.png" width = 130px height = 100%></img>
-<img src="img/setting_page.png" width = 130px height = 100%></img>
-<img src="img/end_page.png" width = 130px height = 100%></img>
+<img src="https://user-images.githubusercontent.com/59248591/73936257-c2db7000-4925-11ea-9da9-da39ac293081.PNG" width = 130px height = 100%></img>
+<img src="https://user-images.githubusercontent.com/59248591/73936256-c242d980-4925-11ea-86aa-24e252eed24e.PNG" width = 130px height = 100%></img>
+<img src="https://user-images.githubusercontent.com/59248591/73936258-c2db7000-4925-11ea-95a6-6344bf706be9.PNG" width = 130px height = 100%></img>
+<img src="https://user-images.githubusercontent.com/59248591/73936252-c0791600-4925-11ea-9560-c9f76841ea65.PNG" width = 130px height = 100%></img>
 
 
 >현재는 Demo버전으로 animation, high score, sound 관련 이슈 수정 중
