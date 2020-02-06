@@ -1,7 +1,7 @@
 # Gravity Servival
 #### (2020.1. ~)
 
->## Categori: Hypercasual
+>## Category: Hypercasual
 
 > ## Concept
 > 행성들 사이로 player가 연료가 다 떨어질 때 까지 날아다니는 서바이벌형 캐주얼 게임입니다.
